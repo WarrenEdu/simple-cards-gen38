@@ -1,0 +1,21 @@
+.card{
+    width: 300px;
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.card__header{
+    padding: 15px;
+    background-color: gray;
+    border-bottom: 2px solid orange;
+    border-radius: 8px 8px 0 0;
+}
+
+.card__title{
+    padding: 15px;
+}
+
+.card__text{
+    padding: 0 15px 25px;
+}
